@@ -2868,8 +2868,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #007bff;
-  border-color: #007bff;
+  color: #6d6e70;
+  border-color: #9d9d9e;
 }
 
 .btn-outline-primary:hover {
@@ -5065,8 +5065,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #6d6e70;
+  border-color: #9d9d9e;
 }
 
 .page-item.disabled .page-link {
