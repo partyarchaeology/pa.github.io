@@ -2573,8 +2573,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #6d6e70;
+  border-color: #9d9d9e;
 }
 
 .btn-primary:hover {
@@ -2874,8 +2874,8 @@ fieldset:disabled a.btn {
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #6d6e70;
+  border-color: #9d9d9e;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -3125,7 +3125,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #007bff;
+  color: #6d6e70;
   text-decoration: none;
 }
 
